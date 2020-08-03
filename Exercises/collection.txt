@@ -1,0 +1,11 @@
+COLLECTION 1
+- 2 nhóm : List và Set (dạng bảng 1 cột)
+- cấu trúc dữ liệu tập hợp động
+- thêm dùng hàm add() -> miễn sao máy tính còn bộ nhớ để chứa nó 
+COLLECTION 2 được xem như MAP bảng 2 cột 	
+- lấy dữ liệu của MAP : get()
+thêm 1 bộ dữ liệu mới vô ds : put()
+
+Khác nhau LIST / SET
+- List dữ liệu có thể trùng, set dữ liệu không trùng (truy xuất theo dang lốc, dung lượng dữ liệu lớn, theo từng khối)		
+				

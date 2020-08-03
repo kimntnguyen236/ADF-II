@@ -1,0 +1,2 @@
+p1, computer, 200 
+p2, desktop, 300 
